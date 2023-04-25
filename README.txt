@@ -1,5 +1,7 @@
 README
 
+(You may view a better-formatted PDF version of this README in the repository)
+
 Requirements to Run the Project:
 The project can be run simply by opening index.html
 No servers or dependencies are required.
